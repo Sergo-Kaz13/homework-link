@@ -13,3 +13,11 @@ https://github.com/Sergo-Kaz13/simple/tree/dev
 
 02_Hard
 https://github.com/Sergo-Kaz13/hard/tree/dev
+
+Lesson 8 css-селектори
+
+1) Services.psd:
+https://github.com/Sergo-Kaz13/services/tree/dev
+
+2) Написать стили для CSS shopping list:
+https://github.com/Sergo-Kaz13/shoping-list/tree/dev
