@@ -1,4 +1,4 @@
-Lesson 5 Photoshop для Front-End розробника
+- Lesson 5 Photoshop для Front-End розробника
 
 https://github.com/Sergo-Kaz13/Photoshop/tree/dev
 
