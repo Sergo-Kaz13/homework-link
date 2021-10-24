@@ -1,6 +1,6 @@
-- Lesson 5 Photoshop для Front-End розробника
+[Lesson 5 Photoshop для Front-End розробника](https://github.com/Sergo-Kaz13/Photoshop/tree/dev)
 
-https://github.com/Sergo-Kaz13/Photoshop/tree/dev
+
 
 
 # Lesson 6 Figma для Front-End розробника
