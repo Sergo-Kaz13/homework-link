@@ -3,7 +3,7 @@
 https://github.com/Sergo-Kaz13/Photoshop/tree/dev
 
 
-Lesson 6 Figma для Front-End розробника
+# Lesson 6 Figma для Front-End розробника
 
 https://github.com/Sergo-Kaz13/lesson-6-figma/tree/dev
 
