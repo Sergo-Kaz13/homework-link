@@ -1,6 +1,6 @@
 #### Lesson 8 css-селектори
 ###### Services.psd:
-    * https://github.com/Sergo-Kaz13/services/tree/dev
+    [https://github.com/Sergo-Kaz13/services/tree/dev](https://github.com/Sergo-Kaz13/services/tree/dev)
 ###### Написать стили для CSS shopping list:
     * https://github.com/Sergo-Kaz13/shoping-list/tree/dev
 ---
