@@ -56,3 +56,26 @@ li i {
 a:hover {
   opacity: .5;
 }
+.block-minimum li,
+.block-maximum li,
+.block-norm li {
+  list-style: decimal;
+  margin-left: 50px;
+  padding: 15px 5px;
+}
+.block-minimum ul,
+.block-maximum ul,
+.block-norm ul {
+  border: 3px solid rgb(99, 97, 97);
+  padding: 15px 0;
+  margin: 15px 0;
+}
+.block-minimum a,
+.block-maximum a,
+.block-norm a {
+  color: white;
+}
+h5 {
+  font-size: 21px;
+  color: #fdfcfd;
+}
